@@ -34,7 +34,7 @@ To search within a specific meeting series, just initiate the search from that f
 
 Currently, my desktop will look for new videos every 24 hours and download and trascribe them, assuming it's on. I make no guarantees, but generally speaking, this will happen every weekday morning. Note that the video of the meeting has to be available on the Internet Archive. This does not always happen the day of the meeting.
 
-If there is interest and usage of the repository, I will take the time to have updates to start on a server within an hour of the video being available.
+If there is interest and usage of the repository, I will take the time to have updates to start on a server within an hour of the video being available. Please star the repository if you find it useful.
 
 ## Code 
 
@@ -49,5 +49,10 @@ Transcription uses the [Faster Whisper](https://github.com/guillaumekln/faster-w
 
 These transcriptions are imperfect and are for search purposes only. I make no guarantees of their acccuracy. Any reference to words spoken within a transcribed meeting should be done using the original video and not the transcription. Do not quote the transcription.
 
+## Contact
 
+Zack Kimble: zkimble at gmail dot com
 
+## License
+
+The transcriptions and their arrangement on this site are licensed under the  Creative Commons Attribution-ShareAlike 4.0 International license.
