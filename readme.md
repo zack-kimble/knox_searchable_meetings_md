@@ -4,7 +4,6 @@
 
 This repository contains timestamped transcriptions of public meetings in Knox County TN. Each timestamp also contains a link to the meeting video, effectively allowing users to search the video's content and playback.
 
-
 ## How to use
 
 ### Repository structure
@@ -32,26 +31,30 @@ To search within a specific meeting series, just initiate the search from that f
 
 ## Updates
 
-Currently, my desktop will look for new videos every 24 hours and download and trascribe them, assuming it's on. I make no guarantees, but generally speaking, this will happen every weekday morning. Note that the video of the meeting has to be available on the Internet Archive. This does not always happen the day of the meeting.
+Currently, my desktop will look for new videos every 24 hours and download and transcribe them, assuming it's on. I make no guarantees, but generally speaking, this will happen every weekday morning. Note that the video of the meeting has to be available on the Internet Archive. This does not always happen the day of the meeting.
+
+I will also be slowly working my way back through historical meetings.
 
 If there is interest and usage of the repository, I will take the time to have updates to start on a server within an hour of the video being available. Please star the repository if you find it useful.
 
 ## Code 
 
-The code that generates transcriptions can be found at [searchable-public-meetings](https://github.com/zack-kimble/searchable-public-meetings]).
+The code that generates transcriptions can be found at [searchable-public-meetings](https://github.com/zack-kimble/searchable-public-meetings).
 
 Videos are pulled via api from the Internet Archive where they are kindly uploaded by Knox Community Media.
 
 Transcription uses the [Faster Whisper](https://github.com/guillaumekln/faster-whisper) model.
 
+## Issues, suggestions, and contributions
+
+If you find bugs or have suggestions for format changes or additional meetings series to cover, please either open an issue here or email me at zkimble at gmail dot com.
+
+If you would like to contribute code, please open a pull request in the [searchable-public-meetings](https://github.com/zack-kimble/searchable-public-meetings) repository.
 
 ## Accuracy Disclaimer
 
 These transcriptions are imperfect and are for search purposes only. I make no guarantees of their acccuracy. Any reference to words spoken within a transcribed meeting should be done using the original video and not the transcription. Do not quote the transcription.
 
-## Contact
-
-Zack Kimble: zkimble at gmail dot com
 
 ## License
 
