@@ -15,7 +15,7 @@ The names for meeting series are based on the topics created by Knox Community T
 
 ### Transcription file
 
-Each meeting is represented as a timestamped transcription with links to the video. If you navigate to a specific meeting (eg [meetings/City Council/City Council R 265 230307_0.md](https://github.com/zack-kimble/knox_searchable_meetings_md/blob/main/meetings/City%20Council/City%20Council%20R%20265%20230307.md)), you should see a table like below, if not click the "preview" button.
+Each meeting is represented as a timestamped transcription with links to the video. If you navigate to a specific meeting (eg [meetings/City Council/City Council R 265 230307_0.md](https://github.com/zack-kimble/knox_searchable_meetings_md/blob/main/meetings/City%20Council/City%20Council%20R%20265%20230307_0.md)), you should see a table like below, if not click the "preview" button.
 ![518ddb72da5b7cfa256c8ed491022d92.png](518ddb72da5b7cfa256c8ed491022d92.png)
 
 Simple ctrl-f can be done within the preview for a single meeting. Click on the link to go to exact moment in the video where the text segment was mentioned.
