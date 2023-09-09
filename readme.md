@@ -55,7 +55,7 @@ Transcription uses the [Faster Whisper](https://github.com/guillaumekln/faster-w
 
 ## Issues, suggestions, and contributions
 
-If you find bugs or have suggestions for format changes or additional meetings series to cover, please either open an issue here or email me at zkimble at gmail dot com.
+If you find bugs or have suggestions for format changes or additional meetings series to cover, please either open an issue here or email me at zkimble at gmail dot com. If there's enough interest and need, I'll look into building an actual site for this.
 
 If you would like to contribute code, please open a pull request in the [searchable-public-meetings](https://github.com/zack-kimble/searchable-public-meetings) repository.
 
