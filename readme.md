@@ -22,7 +22,7 @@ Simple ctrl-f can be done within the preview for a single meeting. Click on the 
 
 ### Searching across meetings
 
-This project takes advantage of Github's indexed search capabilities. You can search for specific keywords or phrases using the native Github search bar in the top right of the page.
+This project takes advantage of Github's indexed search capabilities (Code Search). You can search for specific keywords or phrases using the native Github search bar in the top right of the page. Basic quoting, wildcards, boolean operators etc are supported, see [Github docs](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax).
 
 ![search.png](docs/assets/search.png)
 
