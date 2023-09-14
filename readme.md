@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository contains timestamped transcriptions of public meetings in Knox County TN. Each timestamp also contains a link to the meeting video, effectively allowing users to search the video's content and playback.
+This repository allows users to conduct text search against videos of Knox County public meetings. It contains timestamped transcriptions of each meeting. Each timestamp also contains a link to the meeting video, allowing users to click through to that moment in the meeting's video.
 
 ## How to use
 
 ### Repository structure
 
-Within the `meetings` directory, each meeting series has it's on directory. Each individual meeting has a markdown file with a transcription of the meeting. Larger meetings are split into multiple files so that they will still be indexed for search by Github.
+Within the `meetings` directory, each meeting series has it's own directory. Each individual meeting has a markdown file with a transcription of the meeting. Larger meetings are split into multiple files so that they will still be indexed for search by Github.
 
 The names for meeting series are based on the topics created by Knox Community TV when uploading the video to the Internet Archive. The file names for each meeting will match the video title on the Internet Archive.
 
