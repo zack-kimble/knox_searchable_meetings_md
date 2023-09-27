@@ -47,7 +47,7 @@ If there is interest and usage of the repository, I will take the time to have u
 
 ## Code 
 
-The code that generates transcriptions can be found at [searchable-public-meetings](https://github.com/zack-kimble/searchable-public-meetings).
+The code that generates transcriptions can be found at [searchable-internet-archive-videos](https://github.com/zack-kimble/searchable-internet-archive-videos).
 
 Videos are pulled via api from the Internet Archive where they are kindly uploaded by Knox Community Media.
 
@@ -57,7 +57,7 @@ Transcription uses the [Faster Whisper](https://github.com/guillaumekln/faster-w
 
 If you find bugs or have suggestions for format changes or additional meetings series to cover, please either open an issue here or email me at zkimble at gmail dot com. If there's enough interest and need, I'll look into building an actual site for this.
 
-If you would like to contribute code, please open a pull request in the [searchable-public-meetings](https://github.com/zack-kimble/searchable-public-meetings) repository.
+If you would like to contribute code, please open a pull request in the [searchable-internet-archive-videos](https://github.com/zack-kimble/searchable-internet-archive-videos) repository.
 
 ## Accuracy Disclaimer
 
